@@ -1,2 +1,2 @@
-# ABS-Stream-Fucker Bot
+# ABS-Stream-Fucker Bot Services
 # Package initialization
